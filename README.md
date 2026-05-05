@@ -178,6 +178,7 @@ Variables: A, B, C, D, E
 
 
 ## 3. Parte Empirica
+ChatBot: https://colab.research.google.com/drive/1IprHP06nufNmR9BlaXISgPNGTsDuoUMY?usp=sharing
 ### Descripcion del proyecto
 Este proyecto consiste en el desarrollo de un chatbot interactivo enfocado en el análisis de los sistemas digitales y la industria de los semiconductores en el año 2026. El objetivo principal es proporcionar respuestas claras, estructuradas y educativas sobre temas clave vistos en clase, integrando tanto conocimientos teóricos como tendencias actuales del sector tecnológico.
 
